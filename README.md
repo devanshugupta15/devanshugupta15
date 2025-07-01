@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**devanshugupta15/devanshugupta15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devanshugupta15/devanshugupta15** is a ✨ _special_ ✨ repository because its `PharmaMitra` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
